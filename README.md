@@ -1,5 +1,5 @@
 # Personal Book Tracker
-A terminal-based book tracking app written in Go, built with [tview](github.com/rivo/tview).
+A terminal-based book tracking app written in Go, built with [tview](https://github.com/rivo/tview).
 
 ![Example image](book-tracker.png)
 
